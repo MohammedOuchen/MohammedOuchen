@@ -1,12 +1,11 @@
 # Mohammed Ouchen - Software Engineer
 
-Hello 👋! I'm Mohammed, a passionate full-stack web developer with significant experience in creating dynamic and responsive applications. Currently, I am developing at Ownest in Paris, where I strive to improve system performance and stability through technical innovations.
+Hello 👋! I'm Mohammed, a passionate full-stack web developer with significant experience in creating dynamic and responsive applications. Currently, I am developing at LynxBusiness in Paris, where I strive to improve system performance and stability through technical innovations.
 
 ## 🚀 About Me
 - **Location:** Bonneuil-sur-Marne, France
 - **Languages:** French (Fluent), English (Intermediate), Arabic (Native)
 - **Interests:** Sports (Table Tennis, Football, Karate)
-- **Looking for:** Full-time position starting October 2024
 
 ## 🛠️ Technologies
 - **Frontend:** Vue.js, React.js, Bootstrap, HTML5, CSS3, JavaScript
